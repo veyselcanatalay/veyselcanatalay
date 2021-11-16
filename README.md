@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veysel Can ATALAY</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Front-End Developer**
+- 🔭 I’m currently working on to be **Front-End Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/veyselcanatalay](https://github.com/veyselcanatalay)
 
