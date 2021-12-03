@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=veyselcanatalay&label=Profile%20views&color=0e75b6&style=flat" alt="veyselcanatalay" /> </p>
 
-- 🔭 I’m currently working on to be **Front-End Developer**
+- 🔭 I’m Frontend Developer at Ayasofyazılım Bilişim A.Ş.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/veyselcanatalay](https://github.com/veyselcanatalay)
 
