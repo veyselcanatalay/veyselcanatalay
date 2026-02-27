@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veysel Can ATALAY</h1>
-<h3 align="center">A passionate Frontend Developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=veyselcanatalay&label=Profile%20views&color=0e75b6&style=flat" alt="veyselcanatalay" /> </p>
 
-- 🔭 I’m Frontend Developer at - ~
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/veyselcanatalay](https://github.com/veyselcanatalay)
